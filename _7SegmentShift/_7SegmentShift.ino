@@ -18,7 +18,7 @@ const int SERIAL_CLOCK = 11;
 //Pin connected to SRCLR
 const int SERIAL_CLEAR = 12;
 
-
+/*
 //Binary notation for common CATHODE display
 const int ZERO[] = {0,0,1,1,1,1,1,1}; 
 const int ONE[] = {0,0,0,0,0,1,1,0};
@@ -32,8 +32,8 @@ const int EIGHT[] = {0,1,1,1,1,1,1,1};
 const int NINE[] = {0,1,1,0,0,1,1,1};
 const int DOT[] = {1,0,0,0,0,0,0,0};
 const int OFF[] = {0,0,0,0,0,0,0,0};
+*/
 
-/*
 //Binary notation for common ANODE display
 const int ZERO[] = {1,1,0,0,0,0,0,0}; 
 const int ONE[] = {1,1,1,1,1,0,0,1};
@@ -47,7 +47,7 @@ const int EIGHT[] = {1,0,0,0,0,0,0,0};
 const int NINE[] = {1,0,0,1,1,0,0,0};
 const int DOT[] = {0,1,1,1,1,1,1,1};
 const int OFF[] = {1,1,1,1,1,1,1,1};
-*/
+
 
 const int DIGIT_DELAY = 1000;
 
