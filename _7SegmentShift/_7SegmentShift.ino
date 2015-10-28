@@ -41,10 +41,10 @@ const int TWO[] = {1,0,1,0,0,1,0,0};
 const int THREE[] = {1,0,1,1,0,0,0,0};
 const int FOUR[] = {1,0,0,1,1,0,0,1};
 const int FIVE[] = {1,0,0,1,0,0,1,0};
-const int SIX[] = {1,0,0,0,0,0,1,1};
+const int SIX[] = {1,0,0,0,0,0,1,0};
 const int SEVEN[] = {1,1,1,1,1,0,0,0};
 const int EIGHT[] = {1,0,0,0,0,0,0,0};
-const int NINE[] = {1,0,0,1,1,0,0,0};
+const int NINE[] = {1,0,0,1,0,0,0,0};
 const int DOT[] = {0,1,1,1,1,1,1,1};
 const int OFF[] = {1,1,1,1,1,1,1,1};
 
